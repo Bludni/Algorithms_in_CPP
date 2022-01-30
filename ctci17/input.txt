@@ -1,0 +1,2 @@
+John (15), Jon (12), Chris (13), Kris (4), Christopher (19), Djordje (5), Djole (5), Djoka(5), George(5), Djokica (5)
+(Jon, John), (John, Johnny), (Chris, Kris), (Chris, Christopher), (Djordje, Djole), (Djoka, Djordje), (George, Djokica), (Djokica, Djole), (George, Djoka)
